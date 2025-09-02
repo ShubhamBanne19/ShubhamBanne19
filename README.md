@@ -19,11 +19,6 @@ I thrive in **product-driven startups and agile teams**, where solving hard prob
 |----------|----------|----------|-------|
 | Angular, RxJS, NgRx, TypeScript, SCSS, Angular Material | Node.js, Express.js, REST APIs, JWT | MongoDB, PostgreSQL | Git, GitHub, Postman, VS Code |
 
-🌟 **Strengths recruiters care about:**  
-- Architecting scalable Angular apps  
-- API integration with Node.js/Express  
-- Performance tuning for faster UIs  
-- Mentoring junior developers & leading small feature teams  
 
 ---
 
