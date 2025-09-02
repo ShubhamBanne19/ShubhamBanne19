@@ -1,4 +1,4 @@
-# 💫 About Me:
+**# 💫 About Me:
 💡 Shubham Sanjay Banne<br>1️⃣ Bio<br><br>🚀 Results-driven Angular & MEAN/PEAN Stack Developer with 3.5+ years of experience designing scalable, performance-optimized web applications. I specialize in building dynamic dashboards, CRUD platforms, and cloud-ready solutions with measurable business impact.<br><br>Improved UI load speed by 35% using lazy loading and code splitting<br><br>Delivered a 40% reduction in report-generation time with interactive dashboards<br><br>Passionate about clean architecture, reusable components, and mentoring juniors<br><br>I thrive in product-driven startups and agile teams, bringing both technical depth and problem-solving mindset to craft applications that scale and delight users.
 
 
@@ -22,3 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=ShubhamBanne19&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
