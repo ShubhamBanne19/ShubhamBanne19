@@ -84,12 +84,3 @@ Developed **modular hostel ops system** with room allotments, complaints, and do
 - 🖥️ [GitHub](https://github.com/ShubhamBanne19)  
 
 ⚡ Let’s talk if you’re building a **startup, product, or team** that values clean code, scalable systems, and engineers who think like problem-solvers.  
-
----
-
-## 🔑 Portfolio Maintenance Strategy  
-- Keep **Pinned Projects** fresh: highlight 3–5 most recruiter-relevant repos.  
-- Add **screenshots, gifs, or live demos** for every project (UI sells).  
-- Update metrics regularly (**users served, speed gains, % improvements**).  
-- Post short **tech notes/blogs** on GitHub Pages to showcase expertise.  
-- Maintain visible GitHub activity (commits, PRs, code reviews). Consistency signals reliability.  
