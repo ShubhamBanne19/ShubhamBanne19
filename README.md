@@ -77,12 +77,4 @@ Modules for room allotment, complaints, and document handling with seamless UI.
 - 🖥️ [GitHub](https://github.com/ShubhamBanne19)  
 
 ⚡ Always open to **startup collaborations, product engineering opportunities, and impactful projects**.  
-
----
-
-## 🔑 Portfolio Maintenance Strategy  
-- Keep **Pinned Repositories** updated with recruiter-relevant projects (Water-DO-Analyser, Tractor-Dealer, StudentCRM).  
-- Add **live demo links / screenshots** for visual impact.  
-- Update README with **new metrics** (performance gains, user counts, client adoption).  
-- Write **short technical blogs** on GitHub Pages/LinkedIn to boost credibility.  
-- Keep activity consistent (commits, issues, PRs) to signal reliability.  
+ 
