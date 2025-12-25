@@ -1,9 +1,9 @@
 # 💡 Shubham Sanjay Banne  
 
 ## 1️⃣ Bio  
-I’m Shubham — an **Angular & MEAN/PEAN Stack Developer** with 3.5+ years of experience turning product ideas into fast, scalable, and user-friendly applications.  
+I’m Shubham - an **Angular & MEAN/PEAN Stack Developer** with 3.5+ years of experience turning product ideas into fast, scalable, and user-friendly applications.  
 
-What sets me apart: I don’t just ship features — I deliver **measurable impact**.  
+What sets me apart: I don’t just ship features - I deliver **measurable impact**.  
 - ⚡ Boosted UI load speed by **35%** with lazy loading + code splitting  
 - 📊 Cut report-generation time by **40%** with interactive dashboards  
 - 🧩 Built reusable component libraries that improved **brand consistency** and reduced dev time  
