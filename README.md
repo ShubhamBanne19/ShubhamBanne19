@@ -74,7 +74,7 @@ Developed **modular hostel ops system** with room allotments, complaints, and do
 ## 6️⃣ Contact & Call-to-Action  
 
 📫 Connect with me:  
-- ✉️ [Email](mailto:shubhambanne1819@gmail.com)  
+- ✉️ [Email](mailto:shubhambanne.work@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubham-banne1802)  
 - 🖥️ [GitHub](https://github.com/ShubhamBanne19)  
 
