@@ -55,6 +55,9 @@ Architected a **secure employee deployment tracker** with LEX integration and ch
 🔹 **Hostel Management (Internal Project)**  
 Developed **modular hostel ops system** with room allotments, complaints, and document workflows.  
 
+🔹 **Battery Configuration & Costing System (Angular)**
+Built an **enterprise-style battery configurator** using Angular only, with all business logic driven by **JSON assets**. Implemented **cascading selections** (chemistry → manufacturer → form factor → cell model), **auto-calculated pack parameters** (voltage, capacity, total cells), and **quantity-based USD/kWh pricing** using clean, service-oriented architecture. Designed with **reactive forms**, deterministic calculation services, and scalable, backend-ready structure.
+
 ---
 
 ## 5️⃣ Achievements & Certifications  
